@@ -1,1 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/mN_uyAWr)
+
+Loan Applikation
+En webbapplikation utvecklad för att hantera låneansökningar på ett enkelt och smidigt sätt. Användare kan skapa ett konto, ansöka om lån genom att fylla i sina uppgifter och följa statusen för sin ansökan. Administratörer har möjlighet att granska, godkänna eller avslå ansökningar samt hantera användardata. Applikationen är byggd med C#, ASP.NET och SQL Server och följer bästa praxis för säker datahantering, autentisering och rollbaserad åtkomstkontroll. Designen är användarvänlig för att ge en smidig och transparent låneansökningsprocess.

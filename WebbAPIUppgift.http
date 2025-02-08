@@ -1,0 +1,6 @@
+@WebbAPIUppgift_HostAddress = http://localhost:5285
+
+GET {{WebbAPIUppgift_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

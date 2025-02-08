@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "7tcd0jfZNi5h5jZAg67Q0KGV2yWdDtFVpXTf1Y/CfiE=",
+  "Source": "WebbAPI",
+  "BasePath": "_content/WebbAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
